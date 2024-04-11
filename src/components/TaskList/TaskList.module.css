@@ -1,0 +1,10 @@
+/* TaskList.module.css */
+
+.list {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.item {
+    margin-bottom: 10px; 
+}
